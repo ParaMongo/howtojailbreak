@@ -15,8 +15,8 @@ To see what version of tvOS you have, follow the steps on the [tvOS.md](https://
 
 Apple TV 2
 
-- 5.3 -
-- 6.1.4 -
+- [5.3](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
+- [6.1.4](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
 
 
 Apple TV 3 (Model A1469)
