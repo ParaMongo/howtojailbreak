@@ -5,3 +5,6 @@ My name is Philip, and you can find me on Discord: `philip1077:6969`
 You can also join the r/Jailbreak community on reddit right here: https://www.reddit.com/r/jailbreak/
 
 Or for troubleshooting and news, you can add yourself to the Discord right here: https://discordapp.com/invite/jb
+
+Don’t forget that there are always old commits to the file, so information added here can never be lost. Don’t forget to show some love <3 by sending a PayPal transfer to Phil.time04@gmail.com
+
