@@ -58,49 +58,49 @@ iPad Mini 3
 
 iPad Air 2
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad Mini 4
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad Pro
 
-- 13.3 - 
+- Latest, 13.3 - 
 
 
 iPad 5
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad Pro 2
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad 6
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad Pro 3
 
-- 13.3 - 
+- Latest, 13.3 - 
 
 
 iPad Mini 5
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad Air 3
 
-- 13.3 -
+- Latest, 13.3 -
 
 
 iPad 7
 
-- 13.3 -
+- Latest, 13.3 -
