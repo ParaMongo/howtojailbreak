@@ -4,6 +4,10 @@ This list shows ONLY signed IPSW files, OR the most recent Jailbreak available f
 
 This is a list of all current Jailbreaks, check the date to see when it was last updated if you don't see recent versions here! You will notice that not ALL legacy versions of Apple products are here as for the moment we are going to focus on newer versions.
 
+To identify what model iPhone you have, follow the steps on this page: https://support.apple.com/en-us/HT201471
+
+To see what version of iOS you have, follow the steps on this page: https://support.apple.com/en-us/HT201685
+
 ## IOS
 
 #### iPhone
