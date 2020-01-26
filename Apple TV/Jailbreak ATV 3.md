@@ -50,6 +50,6 @@ You will then be prompted for a password, which will be:
 ### Step 8
 
 Now that you are into your ATV, there is one final command you must type to make sure that the Jailbreak is Untethered. You can do this by typing:
-`dpkg -i ./untether.deb`
+`dpkg -i /private/var/root/untether.deb`
 
 ##### That's it, your Jailbroken!
