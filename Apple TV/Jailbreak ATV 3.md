@@ -13,8 +13,7 @@ Make sure your Apple TV is connected to the internet, either wirelessly or ether
 
 ### Step 2
 
-Go to the `Settings` app, then under `General` select Network. Next, click the network you are currently on, and you should see network options come up. Go down to the DNS where it says `Automatic` and change it to Manual by clicking it.
-
+Go to the `Settings` app, then under `General` select Network. Next, click the network you are currently on, and you should see network options come up. _Now is a good idea to write down, or remember your Apple TV IP address for later._ Go down to the DNS where it says `Automatic` and change it to Manual by clicking it.
 
 ### Step 3
 
@@ -37,4 +36,20 @@ Click submit.
 
 Return to the Main Menu by holding the menu button for a few seconds, then go to the Trailers app. Click it, and you should see a *#etason* come up, and click it. Your Apple TV will restart, and once it has, you are jailbroken. You can reset the DNS back to automatic after it is turned on.
 
-You can now SSH into your Apple TV via any SSH client. The default password is `Alpine` therefor it is highly recommended you change it.
+
+### Step 7
+
+You must then SSH into the Apple TV using whichever SSH client you use (Mac users can just use Terminal) 
+
+On a Mac *on the same network as the Apple TV* in Terminal type: 
+`ssh root@(TheIPAddressOfYourAppleTV)`
+
+You will then be prompted for a password, which will be:
+`alpine`
+
+### Step 8
+
+Now that you are into your ATV, there is one final command you must type to make sure that the Jailbreak is Untethered. You can do this by typing:
+`dpkg -i ./untether.deb`
+
+##### That's it, your Jailbroken!
