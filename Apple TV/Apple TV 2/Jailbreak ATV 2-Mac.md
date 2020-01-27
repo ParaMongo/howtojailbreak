@@ -13,7 +13,7 @@ First, before we begin you will need 6 things:
 ### Step 1
 
 Download the latest version of Seas0nPass from [Firecore](https://support.firecore.com/hc/en-us/articles/215090347-Jailbreaking-101-Seas0nPass) or click the link below
-[Windows](https://github.com/firecore/Seas0nPass/releases/download/0.9.8/Seas0nPass.zip)
+[Mac](https://github.com/firecore/Seas0nPass/releases/download/0.9.8/Seas0nPass.zip)
 
 
 ### Step 2
