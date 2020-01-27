@@ -12,4 +12,6 @@
 
 [ ] ATV 4k Checkra1n (Breakout Cable)
 
-[ ] Electra (research cause I have no idea how to do it)
+[ ] Electra ATV 4 (11.x)
+
+[ ] Electra ATV 4K (11.x)
