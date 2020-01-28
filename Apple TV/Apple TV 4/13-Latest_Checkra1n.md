@@ -9,6 +9,7 @@ You will need:
 2. Apple TV remote.
 3. HDMI cable
 4. AC Adapter
+5. USB-C cable
 
 
 ### Step 1
