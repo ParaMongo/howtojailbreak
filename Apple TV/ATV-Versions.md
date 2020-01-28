@@ -42,7 +42,7 @@ Apple TV 4
 Apple TV 4K (5th Gen)
 
 `Please Read The "ATV 4K Guide" Before Starting to Jailbreak the ATV 4K`
-- 11.x - (Unsigned)<sup>[1]<sup> [Electra]
+- 11.x - (Unsigned)<sup>[1]<sub> [Electra]()
 
 - 12 - 12.4 - (Unsigned) [Chimera](https://github.com/philip1077/howtojailbreak/blob/master/Apple%20TV/Apple%20TV%204K/12.2-12.4%20ATV%204K%20Chimera.md)
 
