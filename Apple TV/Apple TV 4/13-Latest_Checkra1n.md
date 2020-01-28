@@ -1,7 +1,7 @@
 # Jailbreak Apple TV 4 (Checkra1n)
 
 
-####**Currently, this Jailbreak is only possible with a Mac device, stay tuned for Windows updates!!**
+##### **Currently, this Jailbreak is only possible with a Mac device, stay tuned for Windows updates!!**
 
 You will need:
 
