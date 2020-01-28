@@ -34,3 +34,4 @@ After the IPSW is finished downloading, Seas0nPass will ask you to put your ATV 
 ### Step 5
 
 Once complete, you can plug your ATV into your TV using the HDMI adapter, and the AC power adapter. Setup your ATV as normal and once your finished setting up, look at the settings app and you will see the FireCore symbol letting you know your TV is Jailbroken.
+***Special Thanks to @JTV#5846 on Discord for helping organize these tutorials!***
