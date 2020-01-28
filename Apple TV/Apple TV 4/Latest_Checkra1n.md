@@ -43,3 +43,4 @@ You'll then see a success, the device will reboot, you can then plug the ATV int
 
 
 ##### If your ATV disconnects from power for any reason and restarts, the Jailbreak will be lost since this is an Semi-Tethered Jailbreak, all you have to do is follow the Steps again to re-jailbreak it, and all your settings and files you had on it when it was disconnected from power will come back.
+***Special Thanks to @JTV#5846 on Discord for helping organize these tutorials!***
