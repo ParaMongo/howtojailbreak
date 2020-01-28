@@ -13,17 +13,19 @@ To see what version of tvOS you have, follow the steps on the [tvOS.md](https://
 
 ## tvOS
 
+### If the link does not work, you will just need to find the file in the folder. JUST BECAUSE YOU GET A 404 ERROR FROM GITHUB DOES NOT MEAN ITS NOT THERE.
+
 Apple TV 2
 
-- [5.3](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
-- [6.1.4](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
+- 5.3 - [Seas0nPass](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
+- 6.1.4 - [Seas0nPass](https://github.com/philip1077/howtojailbreak/tree/master/Apple%20TV/Apple%20TV%202)
 
 
 Apple TV 3 (Model A1469)
 
-- 6.1.4 -
-- 8.4.2 -
-- 8.4.3 -
+- 6.1.4
+- 8.4.2
+- 8.4.3
 
 
 Apple TV 3 (Model A1427)
@@ -40,8 +42,8 @@ Apple TV 4
 Apple TV 4K (5th Gen)
 
 `Please Read The "ATV 4K Guide" Before Starting to Jailbreak the ATV 4K`
+- 11.x - (Unsigned)<sup>[1]<sup> [Electra]
 
-- 12 - 
-    - **This software is Unsigned (If you update the software, you won't be able to go back to this version)**
-- 12.2 - 
-    - **This software is Unsigned (If you update the software, you won't be able to go back to this version)**
+- 12 - 12.4 - (Unsigned) [Chimera](https://github.com/philip1077/howtojailbreak/blob/master/Apple%20TV/Apple%20TV%204K/12.2-12.4%20ATV%204K%20Chimera.md)
+
+[1] Unsigned - This OS is not available to be installed on your Apple Device anymore because the certificate Apple provides for that software has expired. AND NO, there is no way to bypass this, once software becomes unsigned, if you upgrade your device you cannot go back to that previous version with the exception if you save SHSH Blobs for your device BEFORE you upgrade it.
