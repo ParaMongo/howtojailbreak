@@ -8,7 +8,7 @@
 
 [ ] LiberTV (11.x, ATV 4, ssh works on 11.0 but not 11.1)
 
-[ ] LiberTV (11.x ATV 4k, ssh works on 11.0 but not 11.1)
+[x] LiberTV (11.x ATV 4k, ssh works on 11.0 but not 11.1)
 
 [ ] ATV 4k Checkra1n (Breakout Cable)
 
