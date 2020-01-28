@@ -2,7 +2,7 @@
 
 ### Apple TV
 
-[ ] Chimera (ATV4k, 12-12.4 more detail)
+[x] Chimera (ATV4k, 12-12.4 more detail)
 
 [ ] Chimera (ATV 4 12-12.4)
 
@@ -14,4 +14,4 @@
 
 [ ] Electra ATV 4 (11.x)
 
-[ ] Electra ATV 4K (11.x)
+[x] Electra ATV 4K (11.x)
