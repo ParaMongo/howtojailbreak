@@ -53,3 +53,4 @@ Now that you are into your ATV, there is one final command you must type to make
 `dpkg -i /private/var/root/untether.deb`
 
 ##### That's it, your Jailbroken!
+***Special Thanks to @JTV#5846 on Discord for helping organize these tutorials!***
