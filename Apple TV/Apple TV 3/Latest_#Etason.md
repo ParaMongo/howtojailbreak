@@ -52,5 +52,9 @@ You will then be prompted for a password, which will be:
 Now that you are into your ATV, there is one final command you must type to make sure that the Jailbreak is Untethered. You can do this by typing:
 `dpkg -i /private/var/root/untether.deb`
 
+## Step 9
+
+From there you can install Cydia by going to the Trailers App, (which will now be the NitoTV App) and going over to the subsequent Apps header and installing Cydia. 
+
 ##### That's it, your Jailbroken!
 ***Special Thanks to @JTV#5846 on Discord for helping organize these tutorials!***
