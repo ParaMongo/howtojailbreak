@@ -32,6 +32,8 @@ For Apple TV users, you can add XBMC or Kodi, a massive multimedia centre, to yo
 
 Okay so I'm ready to Jailbreak, what's next? Well first, you need to be aware of the risks you run by Jailbreaking. Since you are Jailbreaking your device, it will void any warranty from Apple, but worse, there is a chance you could *brick* your device, making it unusable. Usually you can just restore the device and it will go back to the way it was prior to when you jailbroke it. Restoring, should you have to, will also remove all the data on your device, which is why it's important to create a backup before you start: https://support.apple.com/en-us/HT203977
 
+*Please be aware that Github, the owners contributors and members of this repository are not responsible for any damage done to your device. I have personally done many of these jailbreaks over the years, and while most worked for me, none of them ever caused me data loss, or rendering them unusable due to the jailbreak (rather me getting frustrated and throwing my ATV 2 at a wall O_o*
+
 
 ### I'm Ready
 
