@@ -13,7 +13,7 @@ Don’t forget that there are always old commits to the file, so information add
 
 ### So, is jailbreak illegal?
 
-The short answer is: /*No, jailbreaking is not illegal.*/ Jailbreaking officially became legal in 2012 when the Library of Congress made an exemption to the Digital Millennium Copyright Act, allowing users to jailbreak their iPhones. However, iPads didn’t become legal to jailbreak until a couple of months ago, surprisingly.
+The short answer is: /*No, jailbreaking is not illegal.*/ Jailbreaking officially became legal in 2012 when the Library of Congress made an exemption to the Digital Millennium Copyright Act, allowing users to jailbreak their iPhones. iPads alike are also legal to Jailbreak, however it was illegal for quite some time.
 
 This means that if you’ve been jailbreaking your iPad for years now, you were technically committing a crime.
 
